@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelRoux&layout=compact&hide=CSS,SCSS&langs_count=8&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelRoux&layout=compact&hide=CSS,SCSS&langs_count=6&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 _Icons obtained from [Devicon](https://devicon.dev/)._
 
