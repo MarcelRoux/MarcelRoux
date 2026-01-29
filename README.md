@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 🧰 Technologies
 
+<img alt="Rust" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 <img alt="GitHub" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="Git" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="Python" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
