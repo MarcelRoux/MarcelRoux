@@ -15,20 +15,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate stats card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&theme=dark
-          path: profile/stats.svg
+          path: profile/stats-dark.svg
           token: ${{ secrets.GHRS_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=default
+          path: profile/stats-light.svg
+          token: ${{ secrets.GHRS_TOKEN }}
+
+      - name: Generate top languages card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&count_private=true&layout=compact&hide=CSS,SCSS,Tex&langs_count=6&theme=dark
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&count_private=true&layout=compact&hide=HTML,CSS,SCSS,Tex,Jupyter%20Notebook&langs_count=6&theme=dark
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GHRS_TOKEN }}
+
+      - name: Generate top languages card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&count_private=true&layout=compact&hide=HTML,CSS,SCSS,Tex,Jupyter%20Notebook&langs_count=6&theme=dark
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GHRS_TOKEN }}
 
       - name: Commit cards
