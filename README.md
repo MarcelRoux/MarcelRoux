@@ -14,24 +14,22 @@ Here are some ideas to get you started:
 -->
 ### 🧰 Technologies
 
-<img alt="Rust" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
-<img alt="GitHub" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img alt="Git" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Python" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="MS SQL Server" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img alt="SQLite" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img alt="Azure" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img alt="AWS" align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img alt="Rust" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
+<img alt="GitHub" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img alt="Git" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img alt="Python" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img alt="SQLite" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
+<img alt="ClickHouse" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" />
+<img alt="PostgreSQL" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="Redis" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" />
+<img alt="Google Cloud" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" />
+<img alt="Azure" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+<img alt="AWS" align="left" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <br />
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelRoux&layout=compact&hide=TeX,CSS,SCSS&langs_count=6&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 _Icons obtained from [Devicon](https://devicon.dev/)._
 
-#
+![Top Langs](./profile/top-langs.svg)
 
-[![MarcelRoux's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelRoux&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-
+![GitHub stats](./profile/stats.svg)
