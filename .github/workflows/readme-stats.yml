@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&count_private=true&layout=compact&hide=HTML,CSS,SCSS,Tex,Jupyter%20Notebook&langs_count=6&theme=dark
+          options: username=${{ github.repository_owner }}&count_private=true&layout=compact&hide=HTML,CSS,SCSS,Tex,Jupyter%20Notebook&langs_count=6&theme=default
           path: profile/top-langs-light.svg
           token: ${{ secrets.GHRS_TOKEN }}
 
